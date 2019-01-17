@@ -5,5 +5,4 @@ SINE WAVE AND COS WAVE
   <li>Xlabel,ylabel and atitle were added to the figure.
   <li>A legend was added to indicate the 2 waves.
  </ul>
- <img src="fig1.jpeg" alt="Waves">
   
